@@ -6,7 +6,7 @@
     <meta name="description" content="Download video tiktok anti watermark">
     <meta name="author" content="putri">
     <title>Tiktok Downloader</title>
-    <center><img src="https://i.ibb.co/g7fxQDg/aff8da5b5197921a833ce9841f5c22d9.jpeg" height="400px" width="650px"><br>
+    <center><img src="https://i.ibb.co/g7fxQDg/aff8da5b5197921a833ce9841f5c22d9.jpeg">
     <link rel="icon" href="https://i.ibb.co/0JmCRL1/97fe5e8c-4cae-4de7-ba34-6e8b967441d7.png">
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
     <style type="text/css">
